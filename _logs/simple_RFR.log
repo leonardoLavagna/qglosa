@@ -1,0 +1,7 @@
+2025-07-15 09:41:07,846 - INFO - Loaded training data from data/cleaned_MPC.csv with shape (1600, 15).
+2025-07-15 09:41:07,847 - INFO - Split data into training and testing sets.
+2025-07-15 09:41:08,034 - INFO - Trained RandomForestRegressor model.
+2025-07-15 09:41:08,040 - INFO - Model evaluation — MSE: 0.0002, R2: 1.0000
+2025-07-15 09:41:08,040 - INFO - Saved model evaluation to results/simple_RFR.txt.
+2025-07-15 09:41:08,071 - INFO - Saved trained model to _models/simple_RFR.pkl.
+2025-07-15 09:41:08,203 - INFO - Saved velocity prediction plot to plots/simple_RFR_velocity_prediction_plot.png.

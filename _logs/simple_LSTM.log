@@ -1,0 +1,33 @@
+2025-07-15 09:52:18,280 - INFO - Loaded training data from data/cleaned_MPC.csv with shape (1600, 15).
+2025-07-15 09:52:18,281 - INFO - Normalized input data.
+2025-07-15 09:52:18,282 - INFO - Created sequences with shape: X=(1580, 20, 15), y=(1580,).
+2025-07-15 09:52:18,283 - INFO - Split data into training and testing sets.
+2025-07-15 09:52:18,312 - INFO - Compiled LSTM model.
+2025-07-15 09:52:21,119 - INFO - Trained LSTM model.
+2025-07-15 09:52:21,239 - INFO - Model evaluation — MSE: 0.0005
+2025-07-15 09:52:21,240 - INFO - Saved model evaluation to results/simple_LSTM.txt.
+2025-07-15 09:52:21,240 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-15 09:52:21,247 - INFO - Saved trained model to _models/train_lstm_model.h5.
+2025-07-15 09:52:21,386 - INFO - Saved velocity prediction plot to plots/simple_LSTM_velocity_prediction_plot.png.
+2025-07-15 10:42:59,900 - INFO - Loaded training data from data/cleaned_MPC.csv with shape (1600, 15).
+2025-07-15 10:42:59,902 - INFO - Normalized input data.
+2025-07-15 10:42:59,903 - INFO - Created sequences with shape: X=(1580, 20, 15), y=(1580,).
+2025-07-15 10:42:59,903 - INFO - Split data into training and testing sets.
+2025-07-15 10:42:59,932 - INFO - Compiled LSTM model.
+2025-07-15 10:43:02,825 - INFO - Trained LSTM model.
+2025-07-15 10:43:02,954 - INFO - Model evaluation — MSE: 0.0006
+2025-07-15 10:43:02,955 - INFO - Saved model evaluation to results/simple_LSTM.txt.
+2025-07-15 10:43:02,955 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-15 10:43:02,963 - INFO - Saved trained model to _models/train_lstm_model.h5.
+2025-07-15 10:43:03,234 - INFO - Saved full comparison plot to plots/simple_LSTM_comparison_plot.png.
+2025-07-15 10:56:01,191 - INFO - Loaded training data from data/cleaned_BUS.csv with shape (1600, 15).
+2025-07-15 10:56:01,193 - INFO - Normalized input data.
+2025-07-15 10:56:01,194 - INFO - Created sequences with shape: X=(1580, 20, 15), y=(1580,).
+2025-07-15 10:56:01,195 - INFO - Split data into training and testing sets.
+2025-07-15 10:56:01,222 - INFO - Compiled LSTM model.
+2025-07-15 10:56:03,980 - INFO - Trained LSTM model.
+2025-07-15 10:56:04,098 - INFO - Model evaluation — MSE: 0.0089
+2025-07-15 10:56:04,098 - INFO - Saved model evaluation to results/simple_LSTM.txt.
+2025-07-15 10:56:04,098 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-15 10:56:04,106 - INFO - Saved trained model to _models/train_lstm_model.h5.
+2025-07-15 10:56:04,360 - INFO - Saved full comparison plot to plots/simple_LSTM_comparison_plot.png.

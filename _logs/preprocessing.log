@@ -1,0 +1,8 @@
+2025-07-15 09:28:33,478 - INFO - BUS loaded successfully with shape (1599, 15).
+2025-07-15 09:28:33,479 - INFO - MPC loaded successfully with shape (1599, 15).
+2025-07-15 09:31:06,639 - INFO - BUS loaded successfully with shape (1600, 15).
+2025-07-15 09:31:06,640 - INFO - MPC loaded successfully with shape (1600, 15).
+2025-07-15 09:31:06,642 - INFO - BUS: Cleaned from shape (1600, 15) to (1600, 15).
+2025-07-15 09:31:06,643 - INFO - MPC: Cleaned from shape (1600, 15) to (1600, 15).
+2025-07-15 09:31:06,648 - INFO - Saved cleaned data to data/cleaned_BUS.csv
+2025-07-15 09:31:06,652 - INFO - Saved cleaned data to data/cleaned_MPC.csv

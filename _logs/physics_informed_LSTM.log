@@ -1,0 +1,85 @@
+2025-07-15 10:08:29,434 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:08:29,437 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:08:29,464 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:09:32,077 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:09:32,080 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:09:32,107 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:10:03,094 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:10:03,097 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:10:03,123 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:13:12,882 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:13:12,885 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:13:12,912 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:14:25,039 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:14:25,042 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:14:25,069 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:14:32,897 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:14:32,899 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:14:32,926 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:16:19,423 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:16:19,425 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:16:19,452 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:17:47,689 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:17:47,692 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:17:47,717 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:18:34,888 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:18:34,892 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:18:34,918 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:19:09,666 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:19:09,669 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:19:09,695 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:19:56,651 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:19:56,654 - INFO - Created sequence data: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:19:56,684 - INFO - Compiled physics-informed LSTM model.
+2025-07-15 10:23:49,724 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:23:49,727 - INFO - Prepared sequences: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:23:50,512 - INFO - Epoch 1/20 — Loss: 6.0263, MSE: 4.1680
+2025-07-15 10:23:50,610 - INFO - Epoch 2/20 — Loss: 0.3636, MSE: 0.3300
+2025-07-15 10:23:50,703 - INFO - Epoch 3/20 — Loss: 0.1655, MSE: 0.1594
+2025-07-15 10:23:50,792 - INFO - Epoch 4/20 — Loss: 0.1095, MSE: 0.1095
+2025-07-15 10:23:50,882 - INFO - Epoch 5/20 — Loss: 0.0827, MSE: 0.0812
+2025-07-15 10:23:50,969 - INFO - Epoch 6/20 — Loss: 0.0662, MSE: 0.0662
+2025-07-15 10:23:51,057 - INFO - Epoch 7/20 — Loss: 0.0533, MSE: 0.0533
+2025-07-15 10:23:51,144 - INFO - Epoch 8/20 — Loss: 0.0392, MSE: 0.0392
+2025-07-15 10:23:51,233 - INFO - Epoch 9/20 — Loss: 0.0268, MSE: 0.0268
+2025-07-15 10:23:51,321 - INFO - Epoch 10/20 — Loss: 0.0208, MSE: 0.0208
+2025-07-15 10:23:51,408 - INFO - Epoch 11/20 — Loss: 0.0182, MSE: 0.0182
+2025-07-15 10:23:51,495 - INFO - Epoch 12/20 — Loss: 0.0167, MSE: 0.0167
+2025-07-15 10:23:51,582 - INFO - Epoch 13/20 — Loss: 0.0340, MSE: 0.0262
+2025-07-15 10:23:51,670 - INFO - Epoch 14/20 — Loss: 0.0166, MSE: 0.0166
+2025-07-15 10:23:51,759 - INFO - Epoch 15/20 — Loss: 0.0135, MSE: 0.0135
+2025-07-15 10:23:51,847 - INFO - Epoch 16/20 — Loss: 0.0131, MSE: 0.0131
+2025-07-15 10:23:51,935 - INFO - Epoch 17/20 — Loss: 0.0117, MSE: 0.0117
+2025-07-15 10:23:52,022 - INFO - Epoch 18/20 — Loss: 0.0104, MSE: 0.0104
+2025-07-15 10:23:52,109 - INFO - Epoch 19/20 — Loss: 0.0092, MSE: 0.0092
+2025-07-15 10:23:52,196 - INFO - Epoch 20/20 — Loss: 0.0083, MSE: 0.0083
+2025-07-15 10:23:52,220 - INFO - Saved test MSE to results/physics_informed_LSTM.txt
+2025-07-15 10:23:52,220 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-15 10:23:52,222 - INFO - Saved trained model to _models/physics_informed_LSTM.h5
+2025-07-15 10:23:52,396 - INFO - Saved plot to plots/physics_informed_LSTM_velocity_prediction_plot.png
+2025-07-15 10:57:37,869 - INFO - Loaded data with shape: (1600, 15)
+2025-07-15 10:57:37,872 - INFO - Prepared sequences: X_train=(1264, 20, 15), y_train=(1264,)
+2025-07-15 10:57:38,686 - INFO - Epoch 1/20 — Loss: 21.1398, MSE: 17.7741
+2025-07-15 10:57:38,784 - INFO - Epoch 2/20 — Loss: 7.1823, MSE: 6.6488
+2025-07-15 10:57:38,877 - INFO - Epoch 3/20 — Loss: 5.3207, MSE: 5.0144
+2025-07-15 10:57:38,966 - INFO - Epoch 4/20 — Loss: 4.3610, MSE: 4.1100
+2025-07-15 10:57:39,055 - INFO - Epoch 5/20 — Loss: 3.7871, MSE: 3.6011
+2025-07-15 10:57:39,143 - INFO - Epoch 6/20 — Loss: 3.3643, MSE: 3.1886
+2025-07-15 10:57:39,233 - INFO - Epoch 7/20 — Loss: 2.9974, MSE: 2.8317
+2025-07-15 10:57:39,322 - INFO - Epoch 8/20 — Loss: 2.6160, MSE: 2.4910
+2025-07-15 10:57:39,412 - INFO - Epoch 9/20 — Loss: 2.3071, MSE: 2.2214
+2025-07-15 10:57:39,500 - INFO - Epoch 10/20 — Loss: 2.0397, MSE: 1.9558
+2025-07-15 10:57:39,587 - INFO - Epoch 11/20 — Loss: 1.9040, MSE: 1.8082
+2025-07-15 10:57:39,674 - INFO - Epoch 12/20 — Loss: 1.8106, MSE: 1.7313
+2025-07-15 10:57:39,761 - INFO - Epoch 13/20 — Loss: 1.6611, MSE: 1.5848
+2025-07-15 10:57:39,849 - INFO - Epoch 14/20 — Loss: 1.6014, MSE: 1.5303
+2025-07-15 10:57:39,937 - INFO - Epoch 15/20 — Loss: 1.5238, MSE: 1.4660
+2025-07-15 10:57:40,025 - INFO - Epoch 16/20 — Loss: 1.5525, MSE: 1.4723
+2025-07-15 10:57:40,114 - INFO - Epoch 17/20 — Loss: 1.4313, MSE: 1.3503
+2025-07-15 10:57:40,201 - INFO - Epoch 18/20 — Loss: 1.2878, MSE: 1.2446
+2025-07-15 10:57:40,287 - INFO - Epoch 19/20 — Loss: 1.3184, MSE: 1.2665
+2025-07-15 10:57:40,377 - INFO - Epoch 20/20 — Loss: 1.2604, MSE: 1.2195
+2025-07-15 10:57:40,401 - INFO - Saved test MSE to results/physics_informed_LSTM.txt
+2025-07-15 10:57:40,401 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-15 10:57:40,404 - INFO - Saved trained model to _models/physics_informed_LSTM.h5
+2025-07-15 10:57:40,556 - INFO - Saved plot to plots/physics_informed_LSTM_velocity_prediction_plot.png

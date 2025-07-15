@@ -1,0 +1,7 @@
+2025-07-15 11:01:44,180 - INFO - Compiled hybrid LSTM model.
+2025-07-15 11:01:50,597 - INFO - Trained hybrid LSTM model.
+2025-07-15 11:01:50,733 - INFO - Hybrid Model — MSE: 1.4837
+2025-07-15 11:01:50,733 - INFO - Saved evaluation to results/balanced_LSTM.txt.
+2025-07-15 11:01:50,734 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-15 11:01:50,740 - INFO - Saved trained model to _models/balanced_LSTM.h5.
+2025-07-15 11:01:50,933 - INFO - Saved hybrid velocity plot to plots/balanced_LSTM_velocity_prediction_plot.png.
